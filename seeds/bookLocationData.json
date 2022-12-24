@@ -1,0 +1,42 @@
+[
+    {
+      "bookId": "1",
+      "locationId": "2"
+    },
+    {
+      "bookId": "2",
+      "locationId": "3"
+    },
+    {
+      "bookId": "5",
+      "locationId": "1"
+    },
+    {
+      "bookId": "1",
+      "locationId": "7"
+    },
+    {
+      "bookId": "6",
+      "locationId": "1"
+    },
+    {
+      "bookId": "8",
+      "locationId": "9"
+    },
+    {
+      "bookId": "1",
+      "locationId": "9"
+    },
+    {
+      "bookId": "5",
+      "locationId": "8"
+    },
+    {
+      "bookId": "9",
+      "locationId": "8"
+    },
+    {
+      "bookId": "3",
+      "locationId": "8"
+    }
+]
